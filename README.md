@@ -4,6 +4,31 @@
 
 > 🎯 **示例场景**：山西省电力工程企业协会官网（仅作演示，可快速替换为任意协会/组织）
 
+[![GitHub](https://img.shields.io/github/stars/HeZhYang/Association-Website-Template?style=social)](https://github.com/HeZhYang/Association-Website-Template)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
+---
+
+## 🎬 演示视频
+
+### 📺 基本功能展示
+
+展示前台官网、管理后台的核心功能和操作流程。
+
+https://github.com/HeZhYang/Association-Website-Template/raw/main/docs/videos/基本使用展示.mp4
+
+> 👆 点击上方链接播放，或 [下载视频](docs/videos/基本使用展示.mp4)
+
+---
+
+### 🤖 AI 智能客服演示
+
+展示集成扣子 (Coze) 平台的 AI 客服对话功能。
+
+https://github.com/HeZhYang/Association-Website-Template/raw/main/docs/videos/chatbot.mp4
+
+> 👆 点击上方链接播放，或 [下载视频](docs/videos/chatbot.mp4)
+
 ---
 
 ## ✨ 核心特性
