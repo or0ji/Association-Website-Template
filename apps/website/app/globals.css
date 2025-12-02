@@ -1,0 +1,139 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary: #1a5fc9;
+  --primary-dark: #154a9e;
+  --primary-light: #2d7ae0;
+}
+
+body {
+  @apply text-gray-800 antialiased;
+  font-family: "PingFang SC", "Microsoft YaHei", "Hiragino Sans GB", Arial, sans-serif;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #c1c1c1;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #a8a8a8;
+}
+
+/* Swiper custom styles */
+.swiper-pagination-bullet {
+  @apply w-3 h-3 bg-white/50;
+}
+
+.swiper-pagination-bullet-active {
+  @apply bg-white;
+}
+
+/* Article content styles */
+.article-content {
+  @apply max-w-none text-base leading-relaxed text-gray-700;
+}
+
+.article-content h1 {
+  @apply text-2xl font-bold mt-6 mb-4 text-gray-900;
+}
+
+.article-content h2 {
+  @apply text-xl font-bold mt-5 mb-3 text-gray-900;
+}
+
+.article-content h3 {
+  @apply text-lg font-bold mt-4 mb-2 text-gray-900;
+}
+
+.article-content p {
+  @apply my-3 leading-relaxed;
+}
+
+.article-content ul,
+.article-content ol {
+  @apply my-3 pl-6;
+}
+
+.article-content ul {
+  @apply list-disc;
+}
+
+.article-content ol {
+  @apply list-decimal;
+}
+
+.article-content li {
+  @apply my-1;
+}
+
+.article-content blockquote {
+  @apply border-l-4 border-primary pl-4 my-4 italic text-gray-600;
+}
+
+.article-content img {
+  @apply max-w-full h-auto my-4 rounded;
+}
+
+.article-content a {
+  @apply text-primary hover:underline;
+}
+
+.article-content table {
+  @apply w-full border-collapse my-4;
+}
+
+.article-content th,
+.article-content td {
+  @apply border border-gray-300 px-4 py-2;
+}
+
+.article-content th {
+  @apply bg-gray-100 font-bold;
+}
+
+/* Animation */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.3s ease-out;
+}
+
+/* Mobile menu */
+.mobile-menu-enter {
+  @apply transform translate-x-full;
+}
+
+.mobile-menu-enter-active {
+  @apply transform translate-x-0 transition-transform duration-300;
+}
+
+.mobile-menu-exit {
+  @apply transform translate-x-0;
+}
+
+.mobile-menu-exit-active {
+  @apply transform translate-x-full transition-transform duration-300;
+}
+

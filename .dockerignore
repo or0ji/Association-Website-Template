@@ -1,0 +1,47 @@
+# Dependencies
+node_modules
+**/node_modules
+.pnpm-store
+
+# Build outputs
+.next
+**/.next
+out
+dist
+build
+
+# Python
+__pycache__
+*.py[cod]
+venv
+.venv
+*.egg-info
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDE
+.idea
+.vscode
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Git
+.git
+.gitignore
+
+# Turbo
+.turbo
+
+# Docker volumes (don't copy into build)
+volumes/
+
+# Logs
+*.log
+npm-debug.log*
+
